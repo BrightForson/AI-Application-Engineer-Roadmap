@@ -17,3 +17,23 @@ REACT NATIVE(everything, to optimization)
 Linux fundamentals
 Shell scripting
 File systems, permission and processes
+Network Basics(TCP/IP, HTTP, DNS, load balancing, firewalls.)
+Version Control
+Cloud Concepts(IaaS, PaaS, SaaS, understand cloud providers (AWS)
+(Infrastructure and Deployment)
+AWS
+Web servers (Nginx or Apache)
+Docker
+Deployment
+(CI/CD Pipelines)
+CI/CD tools(Github Actions, Jenkins, GitLab CI)
+Automated testing(Pytest for FastAPI, Jest for react native)
+Testing
+(Orchestration and scalability)
+Kubernetes
+Scaling (Redis,memcached)
+Monitoring (Prometheus, Grafana), (ELK stack for logs)
+Security (IAM roles)
+Terraform
+
+
